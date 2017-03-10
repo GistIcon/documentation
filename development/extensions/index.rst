@@ -1,4 +1,4 @@
-Extensions
+)_Extensions
 ==========
 
 Welcome to phpBB's extension development tutorial and documentation.
@@ -19,3 +19,4 @@ Welcome to phpBB's extension development tutorial and documentation.
    tutorial_advanced
    tutorial_testing
    *
+P{
